@@ -6,6 +6,14 @@ The [California State University, Northridge (CSUN)](https://www.csun.edu) [Auto
 
 The [CoHORT (Cooperative Human Operations with Robot Teams) project](https://arcs.center/cohort-cooperative-human-operations-with-robot-teams/) is a collaborative effort between researchers at CSUN ARCS and the NASA Jet Propulsion Laboratory (JPL). It was proposed as a follow-on to JPL's [CADRE (Cooperative Autonomous Distributed Robotic Exploration) mission](https://www.jpl.nasa.gov/missions/cadre/), with the goal of adapting its hardware and software designs for academic research. In CADRE, several small rovers were developed from prototypes to flight models and will be deployed to the Moon’s Reiner Gamma region as part of a multi-robot autonomy technology demonstration. These rovers will work as a team to explore the surface autonomously, map the subsurface in 3D, and collect distributed measurements -- demonstrating the potential of future multi-robot missions. CoHORT builds on the Mercury 7 CADRE prototypes by reengineering the rover platform for research use, including updates to the mechanical design, compute hardware, and autonomy stack, which replaces the flight-oriented F Prime framework with a novel ROS 2-based architecture.
 
+### CoHORT Project Webpage
+
+The CoHORT project webpage is available [here](https://csun-arcs.github.io/arcs_cohort/).
+
+### CoHORT Project Code and Documentation
+
+Code and documentation for the CoHORT project is linked from the main [`arcs_cohort`](https://github.com/csun-arcs/arcs_cohort) repository.
+
 <!--
 
 **Here are some ideas to get you started:**
